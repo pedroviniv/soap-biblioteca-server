@@ -1,0 +1,8 @@
+/home/kieckegard/projects/Java/NetBeansProjects/soap-biblioteca/src/main/java/br/edu/ifpb/pos/soap/biblioteca/model/Livro.java
+/home/kieckegard/projects/Java/NetBeansProjects/soap-biblioteca/src/main/java/br/edu/ifpb/pos/soap/biblioteca/ws/AutorService.java
+/home/kieckegard/projects/Java/NetBeansProjects/soap-biblioteca/src/main/java/br/edu/ifpb/pos/soap/biblioteca/ws/LivroService.java
+/home/kieckegard/projects/Java/NetBeansProjects/soap-biblioteca/src/main/java/br/edu/ifpb/pos/soap/biblioteca/model/Autor.java
+/home/kieckegard/projects/Java/NetBeansProjects/soap-biblioteca/src/main/java/br/edu/ifpb/pos/soap/biblioteca/infra/Livros.java
+/home/kieckegard/projects/Java/NetBeansProjects/soap-biblioteca/src/main/java/br/edu/ifpb/pos/soap/biblioteca/infra/LivrosJpaImpl.java
+/home/kieckegard/projects/Java/NetBeansProjects/soap-biblioteca/src/main/java/br/edu/ifpb/pos/soap/biblioteca/infra/AutoresJpaImpl.java
+/home/kieckegard/projects/Java/NetBeansProjects/soap-biblioteca/src/main/java/br/edu/ifpb/pos/soap/biblioteca/infra/Autores.java

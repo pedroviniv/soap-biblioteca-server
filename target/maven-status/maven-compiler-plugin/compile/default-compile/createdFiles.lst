@@ -1,0 +1,8 @@
+br/edu/ifpb/pos/soap/biblioteca/model/Livro.class
+br/edu/ifpb/pos/soap/biblioteca/infra/AutoresJpaImpl.class
+br/edu/ifpb/pos/soap/biblioteca/infra/Autores.class
+br/edu/ifpb/pos/soap/biblioteca/ws/AutorService.class
+br/edu/ifpb/pos/soap/biblioteca/infra/LivrosJpaImpl.class
+br/edu/ifpb/pos/soap/biblioteca/model/Autor.class
+br/edu/ifpb/pos/soap/biblioteca/ws/LivroService.class
+br/edu/ifpb/pos/soap/biblioteca/infra/Livros.class
